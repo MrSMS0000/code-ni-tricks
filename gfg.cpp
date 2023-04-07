@@ -52,7 +52,3 @@ khabar chhe ke max time atlo j thase ane posay to badhuy check karavi lo
 % vadama darek + - * / ma % karvanu nai bhulvanu, jo <0 to +m kari devanu
 n%0 naa thavu joi
 bau kharab formal karta setting saru
-
-[baki]
-https://practice.geeksforgeeks.org/problems/ncr-mod-m-part-20611/1?page=1&category[]=Modular%20Arithmetic&sortBy=submissions
-lucas, fermatt thm
